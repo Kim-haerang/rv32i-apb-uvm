@@ -1,0 +1,14 @@
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.jou
+*.log
+*.wdb
+*.vcd
+*.fsdb
+*.bit
+*.dcp
+*.zip
